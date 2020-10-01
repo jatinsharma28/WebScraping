@@ -1,5 +1,4 @@
-This is a python script which i used to scrape the product details from amazon.
-I have used beautifulsoup and requests for this purpose(you can also use scrapy).
+This is a python script which i used to scrape the product details from amazon.I have used beautifulsoup and requests for this purpose.
 This scraping is done only for educational purpose.
 
 Original image:
